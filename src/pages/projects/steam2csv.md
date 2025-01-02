@@ -4,24 +4,24 @@ title: "Steam2CSV"
 description: "Download your entire Steam library as a .CSV file."
 date: 2023-07-01
 image:
-  url: "../src/images/steam2csv/header.jpg"
+  url: "/images/steam2csv/header.jpg"
   alt: "The Steam logo overlayed on a grid of games"
 tags: []
 screenshots: [
   {
-    url: "../src/images/steam2csv/home_page.png",
+    url: "/images/steam2csv/home_page.png",
     alt: "Steam2csv homepage"
   },
   {
-    url: "../src/images/steam2csv/your_user_page.png",
+    url: "/images/steam2csv/your_user_page.png",
     alt: "Steam2csv your page"
   },
   {
-    url: "../src/images/steam2csv/search_sort.png",
+    url: "/images/steam2csv/search_sort.png",
     alt: "Steam2csv search and sort"
   },
   {
-    url: "../src/images/steam2csv/other_user_page.png",
+    url: "/images/steam2csv/other_user_page.png",
     alt: "Steam2csv other user's page"
   }
 ]
