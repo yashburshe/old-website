@@ -1,4 +1,2 @@
 # Personal website
-Enjoy!
-
-Built with Astro.js
+Old website built with Astro.js
