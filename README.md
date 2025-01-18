@@ -1,2 +1,2 @@
-# Personal website
-Old website built with Astro.js
+# About
+Personal website/portfolio built with Astro
